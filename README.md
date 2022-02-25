@@ -27,6 +27,7 @@ DB_NAME='shorten-url-test'
 
 ## DB create/initialize tables.
 ``yarn db:create`` //create db instance
+
 ``yarn db:migrate`` //migrate url table
 
 ## DB clear
