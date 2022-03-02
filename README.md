@@ -1,4 +1,4 @@
-# Shorten URL test project
+# Stockguard Shorten URL test project
 ## Stack
 - Node.js v14
 - Postgres v13
